@@ -1,5 +1,5 @@
 # CHORE DOOR
-![img](img\ChoreDoor.png)
+![img](img/ChoreDoor.png)
 
 ## Description
 - A fun interactive game based on simple JavaScript. Would you believe this game is desigedn with only 5 files? No kidding check the code yourself. HTML, CSS, JS, Img and README that is it!
