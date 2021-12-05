@@ -21,7 +21,7 @@
 
 ## Skills:
 - For the most up to date list of my skills please visit my portfolio using the link above. 
-- At the time of this publication 
+- At the time of this publication my skills were...
 ### FRONTEND: 
 - React.js, Redux, Hooks, Context API, Jest, Yum, Axios, Javascript, HTML, CSS, Ant Design, RESTful API Design, JSX
 ### BACKEND:
